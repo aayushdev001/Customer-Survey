@@ -1,0 +1,17 @@
+body{
+    background-color: #87b0bc;
+}
+.container
+{
+    border: 3px solid black
+}
+/* .radio{
+    display: inline-block;
+    vertical-align: top;
+}
+label{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 3%;
+
+} */
